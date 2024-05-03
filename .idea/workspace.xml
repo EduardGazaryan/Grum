@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9499a3c9-162e-4291-9099-48f7caadf267" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/djangoProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoProject1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/css/grum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/img/catdog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/img/dogbot77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/img/grum.work1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/img/grum.work2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/static/grum/img/grum_bot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/templates/grum/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/templates/grum/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/templates/grum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/templates/grum/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/templates/grum/poroda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grum/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/migrations/0002_rename_article_articles_alter_articles_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/templates/naviny/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/templates/naviny/detailes_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/templates/naviny/naviny-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/templates/naviny/naviny_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naviny/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eY0OP5RnqECh6jgsyNIcDIajJ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.djangoProject1.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/djangoProject1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\djangoProject1\grum\static\grum\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\djangoProject1\grum\static\grum\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangoProject1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (djangoProject1)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9499a3c9-162e-4291-9099-48f7caadf267" name="Changes" comment="" />
+      <created>1712066171195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712066171195</updated>
+      <workItem from="1712066200233" duration="1856000" />
+      <workItem from="1712068085650" duration="404000" />
+      <workItem from="1712068511848" duration="929000" />
+      <workItem from="1712071236064" duration="3000" />
+      <workItem from="1712071466909" duration="69204000" />
+      <workItem from="1712303916436" duration="35326000" />
+      <workItem from="1713185298489" duration="1501000" />
+      <workItem from="1714722177903" duration="4201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

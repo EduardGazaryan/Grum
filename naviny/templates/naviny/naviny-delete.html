@@ -1,0 +1,15 @@
+{% extends 'grum/layout.html' %}
+
+{% block title %}Удаление запись{% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>Удаление статьи</h1>
+        <form method="post">
+            {% csrf_token %}
+            <button class="btn btn-success" type="submit">Удалить запись</button>
+        </form>
+
+        {# Так можно писать комментарии #}
+    </div>
+{% endblock %}
